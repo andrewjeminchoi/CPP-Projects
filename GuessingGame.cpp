@@ -40,8 +40,8 @@ int main()
 		
 		else
 		{
-			cout << "Invalid guess!" << endl; // doesn't count as a guess
-											                  // user can continue guessing
+			cout << "Invalid guess!" << endl;  // doesn't count as a guess
+						           // user can continue guessing
 		}
 
 		cout << "Enter Guess: ";
